@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 /*
+Sergio y Roger
+
 GESTOR DE CONTACTOS:
 
 Requisitos:
