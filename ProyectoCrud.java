@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*
-Sergio y Roger
+Sergio y Rogerrrrrrrrr
 
 GESTOR DE CONTACTOS:
 
