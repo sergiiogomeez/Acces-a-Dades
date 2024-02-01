@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
+
 /* SERGIO & ROGER */
+
 
 /*GESTOR DE CONTACTOS:
 
@@ -24,8 +26,7 @@ Estructura:
         - nombre
         - numero
         - foto (opcional)
-    - buscar contacto (buscador)
-*/
+    - buscar contacto (buscador)*/
 
 public class ProyectoCrud {
     public static void main(String[] args) {
