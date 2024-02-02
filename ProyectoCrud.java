@@ -34,27 +34,27 @@ public class ProyectoCrud {
     }
 
     //LAS TABLAS
-    private static void listaContactos{
+    private static void listaContactos(){
+        
+    }
+
+    private static void verContacto(){
 
     }
 
-    private static void verContacto{
-
-    }
-
-    private static void editarInformacion{
+    private static void editarInformacion(){
 
     }
     
-    private static void ponerFavoritos{
+    private static void ponerFavoritos(){
 
     }
 
-    private static void crearContacto{
+    private static void crearContacto(){
 
     }
 
-    private static void buscarContacto{
+    private static void buscarContacto(){
 
     }
 }
