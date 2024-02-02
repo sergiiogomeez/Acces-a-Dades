@@ -7,26 +7,29 @@ public class User {
     static String apellido;
     static int numero;
     static String foto;
-    boolean ponerFoto;
 
-    public static void preguntas(boolean ponerFoto){
-
-        ponerFoto = false;
-
-        System.out.println("Nombre: ");
+    public static void main(String[] args){
+        preguntas();
+    }
+    public static void preguntas(){
+        boolean ponerFoto;
+        System.out.print("Nombre: ");
         nombre = lector.nextLine();
 
-        System.out.println("Apellido: ");
+        System.out.print("Apellido: ");
         apellido = lector.nextLine();
 
-        System.out.println("Numero de telefono: ");
+        System.out.print("Numero de telefono: ");
         numero = lector.nextInt();
 
-        System.out.println("Quieres añadir una foto? (Si o No): ");
+        System.out.print("Quieres añadir una foto? (Si o No): ");
         foto = lector.nextLine();
 
         if(foto.equals("Si")) {
             ponerFoto = true;
+            System.out.print("Se añadira una foto");
+        }else{
+            ponerFoto = false;
         }
     }
 }
