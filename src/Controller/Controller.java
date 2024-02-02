@@ -10,5 +10,6 @@ public class Controller {
     public Controller(User user) {
         Controller.user = user;
         User.preguntas();
+
     }
 }

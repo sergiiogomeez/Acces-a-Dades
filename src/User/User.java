@@ -5,7 +5,7 @@ public class User {
     static Scanner lector = new Scanner(System.in);
     static String nombre;
     static String apellido;
-    static int numero;
+    static String numero;
     static String foto;
 
     public static void main(String[] args){
@@ -20,7 +20,7 @@ public class User {
         apellido = lector.nextLine();
 
         System.out.print("Numero de telefono: ");
-        numero = lector.nextInt();
+        numero = lector.nextLine();
 
         System.out.print("Quieres añadir una foto? (Si o No): ");
         foto = lector.nextLine();
