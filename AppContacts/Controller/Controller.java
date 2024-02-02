@@ -1,4 +1,4 @@
-package appContactes.Controller;
+package AppContactes.Controller;
 
 public class Controller {
     
