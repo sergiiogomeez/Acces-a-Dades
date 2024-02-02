@@ -35,7 +35,7 @@ public class ProyectoCrud {
 
     //LAS TABLAS
     private static void listaContactos(){
-        
+        String[] contactos;
     }
 
     private static void verContacto(){
