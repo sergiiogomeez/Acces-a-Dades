@@ -1,4 +1,4 @@
-package appContactes.Users;
+package AppContactes.Users;
 
 public class Users {
     
