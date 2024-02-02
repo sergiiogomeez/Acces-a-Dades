@@ -13,7 +13,7 @@ public class User {
     }
     public static void preguntas(){
         boolean ponerFoto;
-        System.out.print("Nombre: ");
+        System.out.print("\nNombre: ");
         nombre = lector.nextLine();
 
         System.out.print("Apellido: ");
