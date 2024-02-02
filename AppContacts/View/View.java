@@ -1,4 +1,4 @@
-package appContactes.View;
+package AppContactes.View;
 
 public class View {
     
