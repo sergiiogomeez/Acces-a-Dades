@@ -1,5 +1,5 @@
-package Controller;
-import User.User;
+package org.example.Controller;
+import org.example.Entities.User;
 
 public class Controller {
 

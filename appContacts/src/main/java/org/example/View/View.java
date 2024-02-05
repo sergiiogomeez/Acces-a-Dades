@@ -1,4 +1,4 @@
-package View;
+package org.example.View;
 
 public class View {
 }

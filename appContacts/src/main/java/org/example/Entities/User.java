@@ -1,4 +1,4 @@
-package User;
+package org.example.Entities;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 public class User {
