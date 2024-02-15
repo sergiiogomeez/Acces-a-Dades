@@ -3,6 +3,9 @@ import java.util.Scanner;
 /*
 GESTOR DE CONTACTOS:
 
+Donde esta el trabajo? Aqui no lo veo, lo has cambiado de sitio
+y ahora no puedo avanzar :( ADEU.
+
 Requisitos:
 - llista de contactos
 - crear contactos
